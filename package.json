@@ -1,0 +1,23 @@
+{
+  "name": "weather_chat_bot",
+  "version": "1.0.1",
+  "description": "ChatBot to fetch weather details.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https //github.com/TCSUnited/WeatherChatBotV2.0.git"
+  },
+  "author": "TCS",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.3.3",
+    "restify": "^4.1.1",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "openweathermap": "^1.0.0",
+    "wundergroundnode": "^0.9.0"
+  }
+}
