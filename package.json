@@ -2,7 +2,7 @@
   "name": "weather_chat_bot",
   "version": "1.0.1",
   "description": "ChatBot to fetch weather details.",
-  "main": "app.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
